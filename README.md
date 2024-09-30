@@ -35,7 +35,8 @@ warnings.filterwarnings('ignore')
 - Khám phá và phân tích dữ liệu để hiểu cấu trúc và các đặc trưng.
 
 ### 2. Phân Tích Tương Quan
-- Sử dụng **Seaborn** để tạo heatmap giúp trực quan hóa mối tương quan giữa các đặc trưng:
+- Sử dụng **Seaborn** để tạo heatmap giúp trực quan hóa mối tương quan giữa các đặc trưng: Sau khi khám phá, phát hiện các đặc trưng là biến thể của nhau, ta xử lí bằng cách tính giá trị trung bình các biến thể/
+- Cuối cùng lại sử dụng heatmap để lựa chọn đặc trưng cần thiết nhất.
 
 ### 3. Kiểm tra ngoại lai
 
